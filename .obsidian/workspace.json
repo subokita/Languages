@@ -1,0 +1,420 @@
+{
+  "main": {
+    "id": "e6286012ca3765cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "70bf550d9ea7d4b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bb4793ef2e95be4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Languages/🇯🇵 Japanese/26. Leaving Something The Way It Is.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            },
+            "group": "60af3ac03faf3529"
+          },
+          {
+            "id": "8c427d3e93c0b4de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Languages/🇹🇿 Swahili/04. Noun or Adjective and Pronoun agreement.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "426ee452c03ddbf5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Languages/🇹🇷 Turkish/04. Plural Suffix.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "eb5678c974b1cf4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Languages/🇹🇷 Turkish/05. Possessive Suffixes.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "08acd424004b4739",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Languages/🇯🇵 Japanese/26. Leaving Something The Way It Is.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            },
+            "group": "60af3ac03faf3529"
+          },
+          {
+            "id": "e5ebf3add4b6bb42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Languages/🇯🇵 Japanese/26. Leaving Something The Way It Is.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            },
+            "group": "60af3ac03faf3529"
+          },
+          {
+            "id": "f53f222d94c979be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Languages/🇹🇷 Turkish/08. There Is.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "faa1251b24d6016f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Languages/🇹🇷 Turkish/09. Have Got.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "07fc966b31a9230d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Languages/🇩🇪 German/03. Modal Verbs.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e4f22cbd1f5e897b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Languages/🇮🇱 Hebrew/03. Question Words.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "45d9926a73e4b1f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Languages/🇯🇵 Japanese/25. Expressing Time Specific Actions.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c78e8982b0101326",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Languages/🇯🇵 Japanese/26. Leaving Something The Way It Is.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c1216cd1264a960d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Languages/🇯🇵 Japanese/27. Formal Expressions.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d97849035f72c251",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Languages/🇯🇵 Japanese/28. Things that should be a certain way.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 13
+      },
+      {
+        "id": "1c660f4e054f601e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7944388a16b3c44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Languages/🇯🇵 Japanese/26. Leaving Something The Way It Is.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            },
+            "group": "60af3ac03faf3529"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c5e5fc366c274b43",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c8619476c454fc4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a89af86a62e5d295",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8029c2e7af6e0368",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eaba28bac37cb394",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "9dd1325cffab03b5",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 235
+  },
+  "right": {
+    "id": "e99ff8d9e6bdc1ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "7635f49e22697b9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a28d9283fa837d61",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Languages/🇯🇵 Japanese/28. Things that should be a certain way.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "163ee7eab7920f96",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Languages/🇯🇵 Japanese/28. Things that should be a certain way.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bc7bdd7aa3c8e384",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9197cfa1bc49d714",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Languages/🇯🇵 Japanese/28. Things that should be a certain way.md"
+              }
+            }
+          },
+          {
+            "id": "280966cf3731920f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f216b7897b0049b1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "43e48bcc61322d76",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 313.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "markdown-table-editor:Open Markdown Table Editor": false
+    }
+  },
+  "active": "d97849035f72c251",
+  "lastOpenFiles": [
+    "Languages/🇯🇵 Japanese/27. Formal Expressions.md",
+    "Languages/🇯🇵 Japanese/28. Things that should be a certain way.md",
+    "Languages/🇯🇵 Japanese/26. Leaving Something The Way It Is.md",
+    "Languages/🇮🇱 Hebrew/04. Adjectives.md",
+    "Languages/🇯🇵 Japanese/25. Expressing Time Specific Actions.md",
+    "Languages/🇩🇪 German/04. Physical Case and Prepositions.md",
+    "Languages/🇮🇱 Hebrew/03. Question Words.md",
+    "Languages/🇹🇷 Turkish/08. There Is.md",
+    "Languages/🇩🇪 German/03. Modal Verbs.md",
+    "Languages/🇹🇷 Turkish/10. Ek-fiil tenses.md",
+    "Languages/🇹🇷 Turkish/09. Have Got.md",
+    "Languages/🇹🇷 Turkish/07. Compound Nouns.md",
+    "Languages/🇹🇷 Turkish/06. Case Suffixes.md",
+    "Languages/🇹🇷 Turkish/05. Possessive Suffixes.md",
+    "Languages/🇹🇿 Swahili/04. Noun or Adjective and Pronoun agreement.md",
+    "Languages/🇹🇷 Turkish/04. Plural Suffix.md",
+    "Languages/🇹🇷 Turkish/Practice schedule.md",
+    "Languages/🇹🇿 Swahili/05. Interrogative.md",
+    "Languages/🇹🇿 Swahili/03. Noun Class System.md",
+    "Languages/🇰🇷 Korean/20. Irregulars 2.md",
+    "Languages/🇰🇷 Korean/19. Asking Questions.md",
+    "Languages/🇰🇷 Korean/18. To Do Something Well or Poorly.md",
+    "Languages/🇰🇷 Korean/16. Present Progressive.md",
+    "Languages/🇰🇷 Korean/17. Comparatives.md",
+    "Languages/🇰🇷 Korean/15. Connecting Particle 고.md",
+    "Languages/🇰🇷 Korean/14. Suffixes.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Languages/context.mdb",
+    "Languages/🏴󠁧󠁢󠁷󠁬󠁳󠁿 Welsh/context.mdb",
+    "Context",
+    "Languages/🇸🇪 Swedish",
+    "Languages/🇷🇺 Russian",
+    "Languages/🇵🇱 Polish",
+    "Languages/🇮🇪 Irish",
+    "Languages/🇨🇿 Czech",
+    "Languages/🇩🇪 German",
+    "Languages/🇹🇷 Turkish"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "readableLineLength": false,
+  "showInlineTitle": true,
+  "livePreview": false,
+  "strictLineBreaks": true,
+  "showFrontmatter": true,
+  "showLineNumber": true,
+  "rightToLeft": false,
+  "defaultViewMode": "source",
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "autoPairMarkdown": true,
+  "foldIndent": true,
+  "showIndentGuide": false
+}

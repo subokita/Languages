@@ -1,0 +1,12 @@
+{
+  "accentColor": "",
+  "cssTheme": "Minimal",
+  "translucency": true,
+  "theme": "obsidian",
+  "baseFontSize": 18,
+  "nativeMenus": true,
+  "interfaceFontFamily": "",
+  "textFontFamily": "Liberation Mono for Powerline",
+  "showViewHeader": true,
+  "monospaceFontFamily": "Roboto Mono for Powerline"
+}

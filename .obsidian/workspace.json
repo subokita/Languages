@@ -8,38 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "deb3f56af92219fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Languages/🇰🇷 Korean/23. Every, Any, Some, No.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8afa59545dfbd419",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Languages/🇰🇷 Korean/24. ~는 것 Describing Nouns with Verbs.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "196da2b0029dffa0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages/🇰🇷 Korean/25. Using ~던 or 었던 to Describe Past Tense.md",
+                "file": "Languages/🇰🇷 Korean/24. ~는 것 Describing Nouns with Verbs.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -253,22 +227,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "0f95b931317b74d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Languages/🇰🇷 Korean/24. ~는 것 Describing Nouns with Verbs.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 19
+        ]
       }
     ],
     "direction": "vertical"
@@ -431,11 +391,14 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "0f95b931317b74d7",
+  "active": "196da2b0029dffa0",
   "lastOpenFiles": [
+    "Languages/🇰🇷 Korean/24. ~는 것 Describing Nouns with Verbs.md",
+    "Languages/🇰🇷 Korean/24. ~는 것 Describing Nouns with Verbs.md",
+    "Languages/🇰🇷 Korean/Lesson27Past.png",
+    "Languages/🇰🇷 Korean/Practice schedule.md",
     "Languages/🇯🇵 Japanese/24. Hypothesizing and Concluding.md",
     "Languages/🇪🇸 Spanish/09. ir a + infinitive.md",
-    "Languages/🇰🇷 Korean/24. ~는 것 Describing Nouns with Verbs.md",
     "README.md",
     "Languages/🇹🇿 Swahili/08. Verb “be” or “have” in the main clause.md",
     "Languages/🇹🇿 Swahili/07. Indicative Mood and Main Verb Tenses.md",
@@ -457,9 +420,6 @@
     "Languages/🇳🇱 Dutch/08. Indefinite Pronouns.md",
     "Languages/🇳🇱 Dutch/07. Relative Pronouns.md",
     "Languages/🇳🇱 Dutch/06. Demonstrative Pronouns.md",
-    "Languages/🇰🇷 Korean/30. Intention.md",
-    "Languages/🇰🇷 Korean/29. Using ~는것 with 이다.md",
-    "Languages/🇰🇷 Korean/Lesson27Past.png",
     "Lesson27Past.png",
     "Untitled 1.canvas",
     "Untitled.canvas",

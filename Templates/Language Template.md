@@ -5,5 +5,3 @@ date: {{date}}
 time: {{time}}
 tags: 
 ---
-
-# {{title}} []()

@@ -8,54 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3d28232137ba389f",
+            "id": "deb3f56af92219fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages/🇸🇪 Swedish/04. Adjectives.md",
-                "mode": "source",
+                "file": "Languages/🇰🇷 Korean/23. Every, Any, Some, No.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
-            },
-            "group": "290993b9dd5ea61f"
+            }
           },
           {
-            "id": "a4cd72e7dd76cbe4",
+            "id": "8afa59545dfbd419",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages/🇸🇪 Swedish/04. Adjectives.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            },
-            "group": "290993b9dd5ea61f"
-          },
-          {
-            "id": "e9e6c82fa6dadc61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Languages/🇸🇪 Swedish/04. Adjectives.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            },
-            "group": "290993b9dd5ea61f"
-          },
-          {
-            "id": "48879fe6505b9f1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Languages/🇰🇷 Korean/22. Time.md",
+                "file": "Languages/🇰🇷 Korean/24. ~는 것 Describing Nouns with Verbs.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -63,26 +34,12 @@
             }
           },
           {
-            "id": "b7d963d427822761",
+            "id": "196da2b0029dffa0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages/🇸🇪 Swedish/04. Adjectives.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            },
-            "group": "290993b9dd5ea61f"
-          },
-          {
-            "id": "d286913bde202e53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Languages/🇹🇿 Swahili/06. Demonstrative Pronouns.md",
+                "file": "Languages/🇰🇷 Korean/25. Using ~던 or 었던 to Describe Past Tense.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -90,26 +47,12 @@
             }
           },
           {
-            "id": "9c845b4e59572bbb",
+            "id": "8ce3c9f3aacd1108",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages/🇸🇪 Swedish/04. Adjectives.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            },
-            "group": "290993b9dd5ea61f"
-          },
-          {
-            "id": "3bb7dc9171f6d7ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Languages/🇯🇵 Japanese/30. Showing Signs of Something.md",
+                "file": "Languages/🇰🇷 Korean/26. Anomalies with ~는 것.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -117,12 +60,12 @@
             }
           },
           {
-            "id": "2a5b60939b601e18",
+            "id": "caa7bb8dbf5c6aa6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages/🇯🇵 Japanese/31. Formal Expressions of Non-Feasibility.md",
+                "file": "Languages/🇰🇷 Korean/27. Changing Verbs to Nouns with ~기 and 음 or ㅁ.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -130,12 +73,12 @@
             }
           },
           {
-            "id": "105379aba6264654",
+            "id": "b1adf44778c664ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages/🇯🇵 Japanese/31. Formal Expressions of Non-Feasibility.md",
+                "file": "Languages/🇰🇷 Korean/28. An uncertain clause with ~는지.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -143,12 +86,12 @@
             }
           },
           {
-            "id": "21b61be66d76880b",
+            "id": "5084eafe8026faf1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages/🇯🇵 Japanese/33. Advanced Volitional.md",
+                "file": "Languages/🇰🇷 Korean/29. Using ~는것 with 이다.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -156,12 +99,12 @@
             }
           },
           {
-            "id": "f691e22023d7d162",
+            "id": "97e04c730e821368",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages/🇯🇵 Japanese/34. Covered by Something.md",
+                "file": "Languages/🇳🇱 Dutch/06. Demonstrative Pronouns.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -169,12 +112,12 @@
             }
           },
           {
-            "id": "7a17d7259b29032a",
+            "id": "845b17895eb62b8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages/🇯🇵 Japanese/35. Advanced proximity of actions.md",
+                "file": "Languages/🇳🇱 Dutch/08. Indefinite Pronouns.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -182,12 +125,25 @@
             }
           },
           {
-            "id": "06d98cf25b061b55",
+            "id": "d6587b6643d8d126",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages/🇨🇿 Czech/05. Accusative Case.md",
+                "file": "Languages/🇵🇱 Polish/02. Cases and Case Use.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "fcad0f8a98afa8b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Languages/🇵🇱 Polish/03. Pronouns.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -195,12 +151,12 @@
             }
           },
           {
-            "id": "65d6cf088fc5fcc8",
+            "id": "7320c8cf3dfeb2fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages/🇳🇱 Dutch/02. Possessive Pronouns.md",
+                "file": "Languages/🇵🇱 Polish/04. Adjectives.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -208,12 +164,12 @@
             }
           },
           {
-            "id": "64974b7ccf91d185",
+            "id": "e5cf1c2b6d4c99eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages/🇳🇱 Dutch/03. Reflexive Pronouns.md",
+                "file": "Languages/🇷🇺 Russian/15. The Declension of Names, Geographic Names, Noun-replacing Pronouns.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -221,12 +177,12 @@
             }
           },
           {
-            "id": "abc5e7de7ba91293",
+            "id": "b2b6966df05f2f5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages/🇳🇱 Dutch/04. Reciprocal Pronouns.md",
+                "file": "Languages/🇷🇺 Russian/16. Nominative Case.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -234,66 +190,7 @@
             }
           },
           {
-            "id": "ad4a7933e34eb294",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Languages/🇳🇱 Dutch/05. Interrogative Pronouns.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "43fad6e9645b8791",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Languages/🇷🇺 Russian/13. The Dative, Instrumental, and Prepositional Plural of Nouns.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ac5e0ea1555a125d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Languages/🇷🇺 Russian/14. The Declension of Plural Adjectives and Adjectival Words.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e2e6c1ebae8d6df8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Languages/🇸🇪 Swedish/04. Adjectives.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          }
-        ],
-        "currentTab": 20
-      },
-      {
-        "id": "8c2ef9e7f841a53b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "79b4a12728d8459d",
+            "id": "7305a27eca0188de",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -303,10 +200,75 @@
                 "backlinks": false,
                 "source": true
               }
-            },
-            "group": "290993b9dd5ea61f"
+            }
+          },
+          {
+            "id": "04dcf1823162552c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Languages/🇹🇷 Turkish/11. Ek-fiil Simple Present Tense.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ec675db7a6cd132c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Languages/🇹🇷 Turkish/12. Ek-fiil -di past tense.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "cc5ea28f93d971b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Languages/🇹🇷 Turkish/13. Ek-fiil -miş past tense.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "8555400855a7c2ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Languages/🇹🇿 Swahili/06. Demonstrative Pronouns.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "0f95b931317b74d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Languages/🇰🇷 Korean/24. ~는 것 Describing Nouns with Verbs.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -380,7 +342,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Languages/🇸🇪 Swedish/04. Adjectives.md",
+                "file": "Languages/🇰🇷 Korean/24. ~는 것 Describing Nouns with Verbs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -397,7 +359,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Languages/🇸🇪 Swedish/04. Adjectives.md",
+                "file": "Languages/🇰🇷 Korean/24. ~는 것 Describing Nouns with Verbs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -420,7 +382,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Languages/🇸🇪 Swedish/04. Adjectives.md"
+                "file": "Languages/🇰🇷 Korean/24. ~는 것 Describing Nouns with Verbs.md"
               }
             }
           },
@@ -469,34 +431,36 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "e2e6c1ebae8d6df8",
+  "active": "0f95b931317b74d7",
   "lastOpenFiles": [
-    "Languages/🇪🇸 Spanish/02. Essential Words.md",
+    "Languages/🇯🇵 Japanese/24. Hypothesizing and Concluding.md",
+    "Languages/🇪🇸 Spanish/09. ir a + infinitive.md",
+    "Languages/🇰🇷 Korean/24. ~는 것 Describing Nouns with Verbs.md",
+    "README.md",
+    "Languages/🇹🇿 Swahili/08. Verb “be” or “have” in the main clause.md",
+    "Languages/🇹🇿 Swahili/07. Indicative Mood and Main Verb Tenses.md",
+    "Languages/🇹🇿 Swahili/06. Demonstrative Pronouns.md",
+    "Languages/🇹🇷 Turkish/14. Demonstrative Adjectives and Pronouns.md",
+    "Languages/🇹🇷 Turkish/13. Ek-fiil -miş past tense.md",
+    "Languages/🇹🇷 Turkish/12. Ek-fiil -di past tense.md",
+    "Languages/🇹🇷 Turkish/11. Ek-fiil Simple Present Tense.md",
+    "Languages/🇸🇪 Swedish/05. Comparisons.md",
     "Languages/🇸🇪 Swedish/04. Adjectives.md",
+    "Languages/🇷🇺 Russian/17. Genitive Case.md",
+    "Languages/🇷🇺 Russian/16. Nominative Case.md",
     "Languages/🇷🇺 Russian/15. The Declension of Names, Geographic Names, Noun-replacing Pronouns.md",
-    "Languages/🇷🇺 Russian/14. The Declension of Plural Adjectives and Adjectival Words.md",
+    "Languages/🇵🇱 Polish/05. Adverbs.md",
+    "Languages/🇵🇱 Polish/04. Adjectives.md",
+    "Languages/🇵🇱 Polish/03. Pronouns.md",
     "Languages/🇵🇱 Polish/02. Cases and Case Use.md",
-    "Languages/🇷🇺 Russian/13. The Dative, Instrumental, and Prepositional Plural of Nouns.md",
-    "Languages/🇵🇱 Polish/01. Nouns.md",
-    "Languages/🇮🇪 Irish/02. Genitive Case.md",
-    "Languages/🇨🇿 Czech/06. Locative Case.md",
+    "Languages/🇳🇱 Dutch/09. Indefinite Numbers.md",
+    "Languages/🇳🇱 Dutch/08. Indefinite Pronouns.md",
+    "Languages/🇳🇱 Dutch/07. Relative Pronouns.md",
     "Languages/🇳🇱 Dutch/06. Demonstrative Pronouns.md",
-    "Languages/🇳🇱 Dutch/05. Interrogative Pronouns.md",
-    "Languages/🇳🇱 Dutch/04. Reciprocal Pronouns.md",
-    "Languages/🇳🇱 Dutch/03. Reflexive Pronouns.md",
-    "Languages/🇳🇱 Dutch/02. Possessive Pronouns.md",
-    "Languages/🇯🇵 Japanese/30. Showing Signs of Something.md",
-    "Languages/🇨🇿 Czech/05. Accusative Case.md",
-    "Languages/🇯🇵 Japanese/36. Others.md",
-    "Languages/🇯🇵 Japanese/35. Advanced proximity of actions.md",
-    "Languages/🇯🇵 Japanese/34. Covered by Something.md",
-    "Languages/🇯🇵 Japanese/33. Advanced Volitional.md",
-    "Languages/🇯🇵 Japanese/31. Formal Expressions of Non-Feasibility.md",
-    "Languages/🇯🇵 Japanese/32. Tendencies.md",
-    "Templates/Language Template.md",
-    "Languages/🇮🇱 Hebrew/Practice schedule.md",
-    "Languages/🇮🇱 Hebrew/05. Direct Object.md",
-    "Languages/🇮🇱 Hebrew/04. Adjectives.md",
+    "Languages/🇰🇷 Korean/30. Intention.md",
+    "Languages/🇰🇷 Korean/29. Using ~는것 with 이다.md",
+    "Languages/🇰🇷 Korean/Lesson27Past.png",
+    "Lesson27Past.png",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Languages/context.mdb",

@@ -1,12 +1,11 @@
 {
   "minimal-style@@row-alt": true,
   "minimal-style@@row-hover": true,
-  "minimal-style@@table-numbers": true,
   "minimal-style@@table-tabular": false,
   "minimal-style@@table-lines": true,
   "minimal-style@@sidebar-lines-off": false,
   "minimal-style@@sidebar-tabs-style": "sidebar-tabs-default",
-  "minimal-style@@table-nowrap": false,
+  "minimal-style@@table-nowrap": true,
   "minimal-style@@col-alt": false,
   "minimal-style@@col-lines": false,
   "minimal-style@@row-lines": false,

@@ -16,13 +16,13 @@ Largest Column: standard
 - [[Languages/🇩🇪 German 🔒/Practice schedule|🇩🇪 German]]
 - [[Languages/🇮🇱 Hebrew 🔒/Practice schedule|🇮🇱 Hebrew]]
 - [[Languages/🇯🇵 Japanese 🔒/Practice schedule|🇯🇵 Japanese]]
-- [[Languages/🏴󠁧󠁢󠁷󠁬󠁳󠁿 Welsh 🔒/Practice schedule|🏴󠁧󠁢󠁷󠁬󠁳󠁿 Welsh]]
+- [[Languages/🏴󠁧󠁢󠁷󠁬󠁳󠁿 Welsh/Practice schedule|🏴󠁧󠁢󠁷󠁬󠁳󠁿 Welsh]]
 
 --- column-end ---
 # Tue, Thu, Sat
 
 - [[Languages/🇨🇿 Czech/Practice schedule|🇨🇿 Czech]]
-- [[Languages/🇳🇱 Dutch/Practice schedule|🇳🇱 Dutch]]
+- [[Languages/🇳🇱 Dutch 🔒/Practice schedule|🇳🇱 Dutch]]
 - [[Languages/🇮🇪 Irish/Practice schedule|🇮🇪 Irish]]
 - [[Languages/🇵🇱 Polish/Practice schedule|🇵🇱 Polish]]
 - [[Languages/🇷🇺 Russian/Practice schedule|🇷🇺 Russian]]

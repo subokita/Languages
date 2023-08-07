@@ -6,7 +6,7 @@ kanban-plugin: basic
 
 ## Backlog
 
-- [ ] [[01. Pronouns]]
+- [ ] [[Languages/🇩🇪 German 🔒/01. Pronouns]]
 - [ ] [[02. Prepositions]]
 - [ ] [[03. Modal Verbs]]
 - [ ] [[04. Physical Case and Prepositions]]
